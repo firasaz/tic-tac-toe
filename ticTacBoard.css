@@ -1,0 +1,110 @@
+﻿body
+{
+}
+
+#title {
+	font-family: "Hubballi";
+	text-align: center;
+	margin: 15px auto;
+	/*border:3px solid black;*/
+}
+
+#board {
+	margin: auto;
+	width: 40vw;
+	height: 40vw;
+	border: 3px solid black;
+	background-color: #80b0ff;
+}
+
+.box_cell {
+	border: 1px solid black;
+	height: 13.2vw;
+	width: 13.18vw;
+	float:left;
+	position: relative;
+	text-align: center;
+	line-height:13.2vw;
+	font-size: 25px;
+	font-family: "Press Start 2P";
+}
+
+#turn {
+	font-family:"Syne Tactile";
+	margin: 15px auto;
+	font-size: 20px;
+	text-align:center;
+}
+
+/*
+#box0 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	/*float:left;
+	display: inline-block;
+}
+
+#box1 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	display: inline-block;
+}
+
+#box2 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	/*float: left;
+	display: inline-block;
+}
+
+#box3 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	display: inline-block;
+	/*float:left;
+}
+
+#box4 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	/*float:left;
+	display: inline-block;
+}
+
+#box5 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	/*float:left;
+	display: inline-block;
+}
+
+#box6 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	/*float: left;
+	display: inline-block;
+}
+
+#box7 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	/*float: left;
+	display: inline-block;
+}
+
+#box8 {
+	border: 1px solid black;
+	height: 25%;
+	width: 25%;
+	/*float: left;
+	display: inline-block;
+}
+*/
